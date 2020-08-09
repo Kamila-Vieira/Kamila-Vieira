@@ -13,8 +13,12 @@ I am studying Systems Development Technician at ETEC.
 📫 How to reach me:
 
 LinkedIn Profile: https://www.linkedin.com/in/kamila-almeida-262567169
+
 Instagram Profile: @kaahvieiraalmeida
+
 YouTube Channel: https://m.youtube.com/channel/UCVEl941WGxIDmhbSQEpfW-g
+
+:heart:
 <!--
 **Kamila-Vieira/Kamila-Vieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
