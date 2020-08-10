@@ -9,15 +9,10 @@ In addition to immersive and self-taught studies of basic structures (HTML and C
 I am studying Systems Development Technician at ETEC.
 
 📫 How to reach me:
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kamila-almeida-262567169/)](https://www.linkedin.com/in/kamila-almeida-262567169/)
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCVEl941WGxIDmhbSQEpfW-g)](https://www.youtube.com/channel/UCVEl941WGxIDmhbSQEpfW-g)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=instagram&logoColor=white&link=https://www.instagram.com/kaahvieiraalmeida)](https://www.instagram.com/kaahvieiraalmeida/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kamila-almeida-262567169/)](https://www.linkedin.com/in/kamila-almeida-262567169/)
-
-LinkedIn Profile: https://www.linkedin.com/in/kamila-almeida-262567169
-
-Instagram Profile: @kaahvieiraalmeida
-
-YouTube Channel: https://m.youtube.com/channel/UCVEl941WGxIDmhbSQEpfW-g
 
 :heart:
 <!--
