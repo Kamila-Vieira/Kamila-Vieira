@@ -14,7 +14,7 @@ I am studying Systems Development Technician at ETEC.
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCVEl941WGxIDmhbSQEpfW-g)](https://www.youtube.com/channel/UCVEl941WGxIDmhbSQEpfW-g)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=instagram&logoColor=pink&link=https://www.instagram.com/kaahvieiraalmeida)](https://www.instagram.com/kaahvieiraalmeida/)
 
-:heart:
+:heart::computer:
 <!--
 **Kamila-Vieira/Kamila-Vieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
