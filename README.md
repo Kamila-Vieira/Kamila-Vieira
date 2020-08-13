@@ -11,8 +11,9 @@ I am studying Systems Development Technician at ETEC.
 📫 How to reach me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kamila-almeida-262567169/)](https://www.linkedin.com/in/kamila-almeida-262567169/)
+[![Gmail Badge](https://img.shields.io/badge/-vkamila54@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vkamila54@gmail.com)](mailto:vkamila54@gmail.com)
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCVEl941WGxIDmhbSQEpfW-g)](https://www.youtube.com/channel/UCVEl941WGxIDmhbSQEpfW-g)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=instagram&logoColor=white&link=https://www.instagram.com/kaahvieiraalmeida)](https://www.instagram.com/kaahvieiraalmeida/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-6633cc?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/kaahvieiraalmeida)](https://www.instagram.com/kaahvieiraalmeida/)
 <!--
 **Kamila-Vieira/Kamila-Vieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
