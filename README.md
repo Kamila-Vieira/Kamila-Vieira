@@ -10,7 +10,7 @@ I am studying Systems Development Technician at ETEC.
 
 **📫 How to reach me:**
 
-[![Gmail Badge](https://img.shields.io/badge/-vkamila54@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vkamila54@gmail.com)](mailto:vkamila54@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-vkamila.almeida@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vkamila.almeida@gmail.com)](mailto:vkamila.almeida@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kamila-almeida-262567169/)](https://www.linkedin.com/in/kamila-almeida-262567169/)
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCVEl941WGxIDmhbSQEpfW-g)](https://www.youtube.com/channel/UCVEl941WGxIDmhbSQEpfW-g)
 [![Instagram Badge](https://img.shields.io/badge/-@kaahvieiraalmeida-D123BA?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/kaahvieiraalmeida)](https://www.instagram.com/kaahvieiraalmeida/)
