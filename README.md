@@ -2,19 +2,13 @@
 
 I'm Kamila (you can call me Kamis or Ka 😄).
 
-I'm migrating from the Fraud Prevention 
-area to the technology area, 
+I'm migrating from the Fraud Prevention area to the technology area, 
 studying to act as a Front-End Developer. 
-In addition to immersive and self-taught
- studies of basic structures (HTML and CSS), 
-🌱 I'm absorbing a lot of modern Javascript
- (ES6 +), Vanilla Javascript content and 
-its main frameworks and libraries 
-(currently Angular, Vue and React) 
+In addition to immersive and self-taught studies of basic structures (HTML and CSS), 
+🌱 I'm consuming a lot of modern Javascript (ES6 +) and Vanilla Javascript content with 
+its main frameworks and libraries (currently Angular, Vue and React) 
 taking courses and Bootcamps.
- I'm always willing to learn about 
-technology, it's a magical and 
-passionate world.
+ I'm always willing to learn about technology, it's a magical and passionate world.
 
 **📫 How to reach me:**
 
