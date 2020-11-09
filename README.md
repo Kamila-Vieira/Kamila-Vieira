@@ -1,12 +1,20 @@
 **Hi there, :heart:**
 
-I'm Kamila (you can call me Kamis or Ka 😄), from Brazil .
+I'm Kamila (you can call me Kamis or Ka 😄).
 
-I am migrating from Fraud Prevention to the technology area, 
-studying to act as a Front-End Developer.
-In addition to immersive and self-taught studies of basic structures (HTML and CSS), 
-🌱 I am absorbing a lot of modern Javascript (ES6+), Javascript content and its main frameworks (Currently Angular, Vue and React) taking courses and Bootcamps.
-I am studying Systems Development Technician at ETEC.
+I'm migrating from the Fraud Prevention 
+area to the technology area, 
+studying to act as a Front-End Developer. 
+In addition to immersive and self-taught
+ studies of basic structures (HTML and CSS), 
+🌱 I'm absorbing a lot of modern Javascript
+ (ES6 +), Vanilla Javascript content and 
+its main frameworks and libraries 
+(currently Angular, Vue and React) 
+taking courses and Bootcamps.
+ I'm always willing to learn about 
+technology, it's a magical and 
+passionate world.
 
 **📫 How to reach me:**
 
