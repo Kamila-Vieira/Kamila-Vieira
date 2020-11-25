@@ -14,6 +14,6 @@ taking courses and Bootcamps.
 
 [![Gmail Badge](https://img.shields.io/badge/-vkamila.almeida@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vkamila.almeida@gmail.com)](mailto:vkamila.almeida@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kamila-vieira/)](https://www.linkedin.com/in/kamila-vieira/)
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCVEl941WGxIDmhbSQEpfW-g)](https://www.youtube.com/channel/UCVEl941WGxIDmhbSQEpfW-g)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-FF0000?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/_akamis)](https://twitter.com/_akamis)
 [![Instagram Badge](https://img.shields.io/badge/-@kaahvieiraalmeida-D123BA?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/kaahvieiraalmeida)](https://www.instagram.com/kaahvieiraalmeida/)
 
