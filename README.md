@@ -7,7 +7,7 @@ In addition to immersive and self-taught studies of basic structures (HTML and C
 its main frameworks and libraries (currently Angular, Vue and React) 
 taking courses and Bootcamps.
 <br>
- Nowadays I'm working as Web developer analyst at Agência E-plus.
+ Nowadays I'm working as Web development analyst at Agência E-plus.
 <br>
  I'm always willing to learn about technology, it's a magical and passionate world.
  
