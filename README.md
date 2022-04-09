@@ -4,10 +4,10 @@ You can call me Kamis or Ka ❤
 
 In addition to immersive and self-taught studies of basic structures (HTML and CSS), 
 🌱 I'm consuming a lot of modern Javascript (ES6 +) and Vanilla Javascript content with 
-its main frameworks and libraries (currently Angular, Vue and React) 
+its main frameworks and libraries (currently React and Typescript) 
 taking courses and Bootcamps.
 <br>
- Nowadays I'm working as Web development analyst at Agência E-plus.
+ Nowadays I'm working as Web development analyst at Agência e-plus.
 <br>
  I'm always willing to learn about technology, it's a magical and passionate world.
  
