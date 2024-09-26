@@ -1,16 +1,10 @@
-**Hello there**
+Tenho atuado como Desenvolvedora Software e sempre estou em busca de novos desafios e aprendizados.
 
-You can call me Kamis or Ka ❤
+Gosto de automatizar e aprimorar processos de desenvolvimento, sempre seguindo os conceitos de Clean Code. 
 
-In addition to immersive and self-taught studies of basic structures (HTML and CSS), 
-🌱 I'm consuming a lot of modern Javascript (ES6 +) and Vanilla Javascript content with 
-its main frameworks and libraries taking courses and Bootcamps.
-<br>
- Nowadays I'm working as software developer with React, Typescript and Next.
-<br>
- I'm always willing to learn about technology, it's a magical and passionate world.
+Possuo experiência e conhecimentos em React, Next, Javascript, Typescript, Sass, CSS in Js, Nodejs, Gulp, Express, Mongodb, Graphql e Jest. Além de Java, Kotlin e Flutter para desenvolvimento mobile Android.
  
-**📫 How to reach me:**
+**📫Como me encontrar:**
 
 [![Gmail Badge](https://img.shields.io/badge/-vkamila.almeida@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vkamila.almeida@gmail.com)](mailto:vkamila.almeida@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kamila-vieira/)](https://www.linkedin.com/in/kamila-vieira/)
