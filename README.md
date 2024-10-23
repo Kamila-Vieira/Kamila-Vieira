@@ -8,6 +8,6 @@ Possuo experiência e conhecimentos em React, Next, Javascript, Typescript, Sass
 
 [![Gmail Badge](https://img.shields.io/badge/-vkamila.almeida@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vkamila.almeida@gmail.com)](mailto:vkamila.almeida@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kamila-vieira/)](https://www.linkedin.com/in/kamila-vieira/)
-[![Twitter Badge](https://img.shields.io/badge/-@_akamis-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/_akamis)](https://twitter.com/_akamis)
+[![X Badge](https://img.shields.io/badge/-@_akamis-black?style=flat-square&labelColor=black&logo=x&logoColor=white&link=https://x.com/_akamis)](https://x.com/_akamis)
 [![Instagram Badge](https://img.shields.io/badge/-@_akamis-D123BA?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_akamis)](https://www.instagram.com/_akamis/)
 
